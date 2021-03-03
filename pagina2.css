@@ -1,0 +1,47 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    font-family: 'DotGothic16', sans-serif;
+}
+
+section.uno {
+    background-color: white;
+    color: blue;
+}
+
+section.dos {
+    background-color: lightsalmon;
+    height: 320px;
+    width: 600px;
+    float: left;
+}
+
+input.uno {
+    width: 500px;
+}
+
+input.dos {
+    width: 380px;
+}
+
+p.uno {
+    background-color: blue;
+    color: white;
+    display: inline;
+}
+
+p.cuatro {
+    background-color: white;
+    color: blue;
+    font-size: large;
+    text-align: center;
+    clear: both;
+}
+
+span {
+    color: red;
+}

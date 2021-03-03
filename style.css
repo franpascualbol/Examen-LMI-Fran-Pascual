@@ -1,0 +1,65 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    font-family: 'DotGothic16', sans-serif;
+}
+
+section {
+    background-color: red;
+}
+
+a {
+    position: relative;
+    left: 400px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+}
+
+section.uno {
+    background-color: orange;
+}
+
+a.dos {
+    position: relative;
+    left: 800px;
+}
+
+img.dos {
+    position: relative;
+    left: 800px;
+}
+
+section.castellon {
+background-color: plum;
+}
+
+a.castellon {
+    position: relative;
+    left: 1200px;
+}
+
+img.castellon {
+    position: relative;
+    left: 1200px;
+}
+
+p {
+    background-color: white;
+    color: blue;
+    font-size: large;
+    text-align: center;
+}
+
+span {
+    color: red;
+}
+
